@@ -1,6 +1,10 @@
 # Tinfoil-Chat
 Simple chat app that uses 2048 bit RSA encryption. Everything is made from scratch python and should be a good first example for someone who wants to start learning about encryption, gui's or networking.
 
+# Note
+
+Not to be confused with Tinfoil chat which can be found here.
+https://github.com/maqp/tfc
 
 # <-- EDUCATIONAL USE ONLY -->
 
