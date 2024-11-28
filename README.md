@@ -63,6 +63,10 @@ Its worth going over the verification process becuase this is an algorithem that
 * This code is not secure against timing attacks.
 * <b> THIS IS TEXT BOOK RSA WHICH IS NOT SUFFICENT FOR ANYTHING IMPORTANT 
 * The encryption key is the same as the signing key, which is a big no no.
+* Keys are close together, making it not safe against fermats method.
+* Key exchange is more of a make it work situation rather than anything that is safe.
+
+
 
 
 ## To Do
