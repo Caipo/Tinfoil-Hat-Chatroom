@@ -66,6 +66,8 @@ Its worth going over the verification process becuase this is an algorithem that
 * Keys are close together, making it not safe against fermats method.
 * Key exchange is more of a make it work situation rather than anything that is safe.
 
+If you want to try breaking this program more power to you More power to you, just be sure to send me how you did it.
+
 
 
 
